@@ -2,6 +2,7 @@
 src = "src"
 out = "out"
 libs = ["lib"]
+solc = "/usr/local/bin/solc"
 remappings = ['@openzeppelin/contracts=lib/openzeppelin-contracts/contracts']
 is-system = true
 via-ir = true
